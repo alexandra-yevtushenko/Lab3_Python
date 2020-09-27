@@ -1,3 +1,1 @@
-#comm  -  comment
-"\r"  -  escape character
-"\n"  -  escape character
+
